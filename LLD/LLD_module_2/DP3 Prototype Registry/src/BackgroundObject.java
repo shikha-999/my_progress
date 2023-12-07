@@ -1,4 +1,3 @@
-
 public class BackgroundObject implements GraphicalObject{
     //step 2 - create subclasses
     //attributes of location of a tree (co-ordinates)
