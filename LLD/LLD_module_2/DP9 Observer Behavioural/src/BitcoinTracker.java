@@ -1,4 +1,4 @@
-//step4 : implement concrete subject
+//step4 : implement concrete publisher (subject)
 public class BitcoinTracker extends ListBasedPublisherImpl { //or implements
     private Double price;
 
