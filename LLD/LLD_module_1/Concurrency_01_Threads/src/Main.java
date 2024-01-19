@@ -2,13 +2,15 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("1");
+        System.out.println("1 "+Thread.currentThread().getName());
         System.out.println("2");
 
         //creating a parallel running thread
         //step1 : create instance of task
         //creating cars to pass
         HelloWorldPrinter helloWorldPrinter = new HelloWorldPrinter();
+
+//        helloWorldPrinter.run();
 
         //step 2 : put task instance in object of thread class
         //creating a lane(passing car into lane)
@@ -18,6 +20,6 @@ public class Main {
         thread.start();
 
         System.out.println("3");
-        System.out.println("4");
+        System.out.println("4 "+Thread.currentThread().getName());
     }
 }
