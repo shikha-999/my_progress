@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DP1 Singleton/DP1 Singleton.iml" filepath="$PROJECT_DIR$/DP1 Singleton/DP1 Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP10 Strategy Behavioural/DP10 Strategy Behavioural.iml" filepath="$PROJECT_DIR$/DP10 Strategy Behavioural/DP10 Strategy Behavioural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP2 Builder/DP2 Builder.iml" filepath="$PROJECT_DIR$/DP2 Builder/DP2 Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP3 Prototype Registry/DP3 Prototype Registry.iml" filepath="$PROJECT_DIR$/DP3 Prototype Registry/DP3 Prototype Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP4 Abstract Factory/DP4 Abstract Factory.iml" filepath="$PROJECT_DIR$/DP4 Abstract Factory/DP4 Abstract Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP4 Factory Method/DP4 Factory Method.iml" filepath="$PROJECT_DIR$/DP4 Factory Method/DP4 Factory Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP5 Adapter Structural/DP5 Adapter Structural.iml" filepath="$PROJECT_DIR$/DP5 Adapter Structural/DP5 Adapter Structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP6 Facade Structural/DP6 Facade Structral.iml" filepath="$PROJECT_DIR$/DP6 Facade Structural/DP6 Facade Structral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP7 Decorator Structural/DP7 Decorator Structural.iml" filepath="$PROJECT_DIR$/DP7 Decorator Structural/DP7 Decorator Structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP8 Flyweight Structural/DP8 Flyweight Structural.iml" filepath="$PROJECT_DIR$/DP8 Flyweight Structural/DP8 Flyweight Structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP9 Observer Behavioural/DP9 Observer Behavioural.iml" filepath="$PROJECT_DIR$/DP9 Observer Behavioural/DP9 Observer Behavioural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD_module_2.iml" filepath="$PROJECT_DIR$/.idea/LLD_module_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srp_ocp/bird_basic_v0/bird_basic_v0.iml" filepath="$PROJECT_DIR$/srp_ocp/bird_basic_v0/bird_basic_v0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lsp_Is_Di/bird_dependency_inversion_final_v3/bird_dependency_inversion_final_v3.iml" filepath="$PROJECT_DIR$/lsp_Is_Di/bird_dependency_inversion_final_v3/bird_dependency_inversion_final_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lsp_Is_Di/bird_introduce_interfaces_v2/bird_introduce_interfaces_v2.iml" filepath="$PROJECT_DIR$/lsp_Is_Di/bird_introduce_interfaces_v2/bird_introduce_interfaces_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srp_ocp/bird_srp_ocp_v1/bird_srp_ocp_v1.iml" filepath="$PROJECT_DIR$/srp_ocp/bird_srp_ocp_v1/bird_srp_ocp_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP1 Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/DP1 Singleton/eager_initialization/eager_initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP1 Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/DP1 Singleton/lazy_initialization/lazy_initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lsp_Is_Di/lsp_Is_Di.iml" filepath="$PROJECT_DIR$/lsp_Is_Di/lsp_Is_Di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP1 Singleton/single_threading_singleton/single_threading_singleton.iml" filepath="$PROJECT_DIR$/DP1 Singleton/single_threading_singleton/single_threading_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srp_ocp/srp_ocp.iml" filepath="$PROJECT_DIR$/srp_ocp/srp_ocp.iml" />
+    </modules>
+  </component>
+</project>
